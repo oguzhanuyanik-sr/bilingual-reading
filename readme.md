@@ -10,4 +10,4 @@ A tool you can use to read texts in a bilingual way.
 
 ### <a href="https://devaloper.com/bilingual-reading/">Live Demo</a>
 
-<img alt="Bilingual Reading" src="https://raw.githubusercontent.com/oguzhanuyanik-sr/bilingual-reading/master/screenshot.png" />
+<img alt="Bilingual Reading" src="https://raw.githubusercontent.com/oguzhanuyanik-sr/bilingual-reading/master/screenshot.PNG" />
